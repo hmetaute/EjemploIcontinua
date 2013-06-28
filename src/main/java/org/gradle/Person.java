@@ -11,6 +11,6 @@ public class Person {
     }
 
     public String getName() {
-    	//Comentario
+    	return this.name;
     }
 }
