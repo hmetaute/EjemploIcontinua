@@ -11,6 +11,6 @@ public class Person {
     }
 
     public String getName() {
-    	return "Quema un String aqui!!!!";
+    	return this.name;
     }
 }
